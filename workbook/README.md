@@ -1,13 +1,7 @@
-# The unified workbook — authoritative working edition
+# Unified workbook
 
-The complete Edition 1.1 workbook is already committed on `main` at the repository root:
+The complete Edition 1.1 workbook is already on `main` at the repository root: [Read as HTML](../OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html) · [Original Markdown](https://github.com/TitanicParker/everything-fresh/blob/main/OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.md).
 
-**[OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.md](../OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.md)**
+It contains the complete resolution toolbox, canonical definitions, 54-cell lookup, two frozen 100-sentence corpora and ongoing revision log. **Do not duplicate it** in this directory. This folder is a pointer, not a second authoritative edition.
 
-This 824-line source includes the resolution toolbox, canonical vocabulary, 54-cell lookup, procedures, Corpus A (100 world statements), Corpus B (100 science sentences), and a working revision log.
-
-**Do not duplicate or regenerate the workbook under this folder.** Keep the existing root filename as the stable source of record unless a separate reviewed migration is approved.
-
-The canonical controlling definitions remain in [fiche-ceathar/THE_54_CONTROL.md](https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md). Record sentence resolutions separately in [the laboratory](../laboratory/RESOLUTION_REGISTER.md), using IDs defined in the workbook.
-
-See [workflow](../WORKFLOW.md).
+Analyses and disagreements belong in the [laboratory](../RESOLUTION_REGISTER.html); the canonical controlling reference is [THE_54_CONTROL.md](https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md).

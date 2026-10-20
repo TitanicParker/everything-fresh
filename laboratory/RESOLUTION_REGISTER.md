@@ -147,3 +147,13 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence provenance:** [revision creation commit](https://github.com/TitanicParker/everything-fresh/commit/ff8ea821001488751543f95f9c05b7b380ef0123); exact read-back verified before this index update, revision blob `2c090b0c4feeca620fba827dbd184aa63c0c49c7`. Original A-007 blob `1a8af91c38c9e0dec1147d54bdaefe141a8b7168` verified unchanged.
 
 **Progress remains:** 9/200 first-pass sentences, with one separately indexed revision. **Next unworked sentence:** A-010.
+
+## First-pass continuation — A-010 — 20 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-010-2026-10-20-01 | [A-010](resolutions/A-010.md) | Candidate **20 — Pivoted balance; Relating × Focal × Bearing**. Centre: a grandmother's recipe remains available through somebody's memory of knowledge that cannot be written down. Closest rival **23 — Reciprocal shift; Relating × Distributed × Bearing**; 21/19 and 38 tested. | Fresher / OpenAI Codex, 2026-10-20; protocol commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5`. Medium-high confidence in supported preservation, moderate in topology; D1–D3 retained. |
+
+**Persistence:** [record commit](https://github.com/TitanicParker/everything-fresh/commit/603ca2571af5a9b75a7bb8329f05a52c3b38c0b1); exact-content read-back verified before indexing; record blob `b583ab7a8d02780803083e4d31f2f5dee7eb071d`.
+
+**Latest checkpoint:** 10/200 first-pass sentences, plus A-007 revision 02. Next A-011. Only A-010 resolved in this invocation. Earlier checkpoints remain historical.

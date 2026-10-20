@@ -34,6 +34,28 @@ Answer these four prompts as a single description of the Centre:
 3. **Operative continuation:** Does the achieved result itself determine what can subsequently happen, how something can operate, or how a continuation proceeds? If yes, describe the exact consequence established. **Do not infer a capacity merely because a statement is a rule, could be applied, or is practically useful.**
 4. **Minimal invalidation:** What smallest change would make the *completed achievement itself* no longer hold? Distinguish loss of the result from loss of the relation constituting it or loss of its operative consequence.
 
+### Achieved-identity discrimination — established result or constitutive bearing
+
+**Use this additional test during Gate One, before the source sentence is closed.** It sharpens identification; it does not change the canonical definitions. Do **not** introduce the labels Standing, Bearing, any cell number, or anticipated classification while carrying out the test.
+
+A relationship, condition, comparison, or plurality of indispensable terms can be necessary to *form* a complete determination without making the achieved identity consist in an ongoing determination of one term **through** another. Necessity of the terms alone is not the discriminant.
+
+Write both formulations in ordinary language:
+
+- **Result formulation:** “What has been established is ___.”
+- **Constitution formulation:** “What obtains through what is ___.”
+
+Then test each formulation against the *complete governing achievement* rather than the grammatical ease of writing it:
+
+1. **Completion versus constitution:** Does the full achievement consist in the established determination as a result, or is what has been determined itself the constitutive bearing of terms through one another? Specify the exact difference without dropping qualifications.
+2. **Identity rather than prerequisites:** Which dependencies are indispensable **to identifying what the completed result is**, rather than merely being prerequisites for establishing or describing it? Do not infer constitutive bearing solely because removing a term also removes the result: that counterfactual defeats many kinds of completion.
+3. **Rival formulation test:** Does either formulation omit part of the completed achievement, or does one invent a dependence not established by the source? If both remain adequate, record the exact difference and pursue further pre-freeze tests; do not manufacture uniqueness by paraphrase.
+4. **Holding statement:** State positively *what remains achieved* and *why its identity holds that way*, so the frozen record can discriminate an established relational configuration from a determination constituted through the terms' bearing.
+
+**Illustrative discrimination, not a lookup or automatic classification:** An established temporal lead between two arrivals may be achieved *as the ordered configuration itself*, even though both arrivals are required to describe the lead. An exact quantitative determination of one magnitude through specified counterparts may instead have that quantitative dependence as the identity of what is achieved. In either case the source analysis, not the illustration or the words “temporal” and “quantitative,” must decide.
+
+This test **never treats relational syntax as sufficient for constitutive bearing**, and never treats the mere fact that a relationship is established as sufficient to exclude such bearing. If the resulting Centre remains genuinely neutral, preserve that distinction rather than silently rewriting it after confirmation.
+
 **Required final line in Gate One:** “What remains achieved is ___; it holds as this achievement because ___; removing ___ would change/defeat it in the following way: ___.”
 
 The record must distinguish the **constitution of completion** (what makes it sufficient) from the **identity of what remains achieved** (what persists as the completed result). Do not mistake the presence of multiple terms for a distributed completion, a relational sentence for relation-dependent holding, or the description of motion/change for an achieved operative consequence. These distinctions must come from the Centre analysis, not from a preview of the 54 cells.

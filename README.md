@@ -6,7 +6,7 @@ This repository exhibits a **research method under test**. The 54 are a proposed
 
 ## Enter the exhibition
 
-[Homepage](index.html) · [Operative Centre](05-operative-centre.html) · [Sentence laboratory](10-sentence-laboratory.html) · [54-cell atlas](09-atlas.html) · [Full exhibition guide](exhibition/README.md)
+[Homepage](index.html) · [Sentence receipts](sentence-receipts.html) · [Operative Centre](05-operative-centre.html) · [Sentence laboratory](10-sentence-laboratory.html) · [54-cell atlas](09-atlas.html) · [Full exhibition guide](exhibition/README.md)
 
 The existing numbered chapters **01–15** and the public site remain in place. The exhibition now has a separate research backbone.
 
@@ -17,7 +17,8 @@ The existing numbered chapters **01–15** and the public site remain in place. 
 - [Unified workbook](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): complete Edition 1.1 unified workbook already uploaded to the repository root.
 - [Frozen corpora](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): A-001…A-100 (world) and B-001…B-100 (science). both source corpora embedded in the unified workbook.
 - [Fresher corpus stewardship](laboratory/FRESHER_STEWARDSHIP.md): delegated one-sentence-at-a-time resolution, direct GitHub record writing, and diligence trail.
-- [Resolution register](laboratory/RESOLUTION_REGISTER.md): append-only analyses keyed to sentence IDs; no invented classifications.
+- [Sentence receipts](sentence-receipts.html): completed sentences, current solutions and commentary, with full HTML diligence one link away.
+- [Resolution register](RESOLUTION_REGISTER.html): current public index; the [Markdown ledger](laboratory/RESOLUTION_REGISTER.md) preserves the append-only research history.
 - [Independent tests](laboratory/INDEPENDENT_TESTS.md): exploratory agreement and disagreement, with limitations.
 - [Canonical controlling reference](THE_54_CONTROL.md): the definitions, Dimensional Conjunction and 54-cell lookup.
 

@@ -8,7 +8,7 @@ The repository is an **exhibition of a method under test**, not a declaration th
 2. **Working synthesis:** [OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html) is the complete HTML exhibition of the uploaded root Markdown workbook, which is the research source of record.
 3. **Frozen corpora:** Sections 15 and 16 of the unified workbook contain both complete frozen corpora, with stable IDs A-001…A-100 and B-001…B-100. Do not silently rewrite a sentence after freezing.
 4. **Experimental results:** `laboratory/RESOLUTION_REGISTER.md` tracks candidate resolutions and their revisions separately from source sentences.
-5. **Exhibition:** `index.html` and the numbered chapters explain and demonstrate the method. They should link to, not replace, the evidence.
+5. **Exhibition:** `index.html` and the numbered chapters explain and demonstrate the method. [Sentence receipts](sentence-receipts.html) present each completed corpus sentence, its current resolution and commentary on how the structure and canonical name show themselves. Each receipt links to a full HTML diligence page rendered from the immutable research record. The public surface must follow the latest indexed revision and retain candidate/contested/revised status.
 
 ## Delegated corpus stewardship
 
@@ -25,6 +25,7 @@ The repository is an **exhibition of a method under test**, not a declaration th
 5. From the frozen record alone, apply Dimensional Conjunction using the canonical reference; eliminate incompatible cells by structural contradiction, not semantic resemblance.
 6. Derive the strongest surviving cell and test nearest rivals against the **frozen Centre**. If the record does not discriminate, name the exact boundary rather than making a preference-based choice.
 7. Preserve each record and any later revisions as separate dated entries; never silently overwrite the frozen Centre.
+8. **Publish the receipt after persistence:** add or update the sentence in `sentence-receipts.html` with exact source wording, current cell/conjunction or surviving alternatives, status, and plain-language paragraphs showing how the structure and its canonical name evidence themselves. Render the current full record to `exhibition/diligence/{ID}.html`, link it from the receipt, and refresh `RESOLUTION_REGISTER.html`. On revision, the receipt points to the current result while earlier diligence stays available. Verify the public links and source correspondence before reporting completion.
 
 ## Status vocabulary
 

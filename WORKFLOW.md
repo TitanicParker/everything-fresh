@@ -10,6 +10,10 @@ The repository is an **exhibition of a method under test**, not a declaration th
 4. **Experimental results:** `laboratory/RESOLUTION_REGISTER.md` tracks candidate resolutions and their revisions separately from source sentences.
 5. **Exhibition:** `index.html` and the numbered chapters explain and demonstrate the method. They should link to, not replace, the evidence.
 
+## Delegated corpus stewardship
+
+**[Fresher's 200-sentence handover and direct-write mandate](laboratory/FRESHER_STEWARDSHIP.md)** governs the one-sentence-at-a-time programme, persistent per-sentence notes, resumption, and permission to write ordinary corpus records directly to the repository when authorised GitHub tools are connected.
+
 ## Resolution protocol
 
 **Start here:** [Operative Centre Confirmation and the One-Way Threshold](OPERATIVE_CENTRE_CONFIRMATION_PROTOCOL.md) is the operative step-by-step protocol for fresh GPT tests.

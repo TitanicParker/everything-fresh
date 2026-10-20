@@ -113,3 +113,13 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** [record commit](https://github.com/TitanicParker/everything-fresh/commit/334f3b7fe3086a86b2a4a34a826e502eba7cab30); exact read-back before indexing, blob `1a8af91c38c9e0dec1147d54bdaefe141a8b7168`.
 
 **Checkpoint:** 7/200 indexed. Next A-008. This is the first of three sequential assays expressly authorised in this invocation. Older progress statements above are historical.
+
+## First-pass continuation — A-008 — 20 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-008-2026-10-20-01 | [A-008](resolutions/A-008.md) | Candidate **23 — Reciprocal shift; Relating × Distributed × Bearing**. Centre: on bridge reopening, the pair regains neighbouring connection before sunset, their status constituted through one another. Nearest rival **22 — Sequential link; Relating × Distributed × Standing**; Release alternatives tested. | Fresher / OpenAI Codex, 2026-10-20; protocol commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5`; nonblind, moderate confidence, uniqueness not established; D1–D3 retained. |
+
+**Persistence:** [record commit](https://github.com/TitanicParker/everything-fresh/commit/375904af50169b9b286c11847d761df999bdf4e7); exact read-back before indexing; blob `7d50028a1527b6ee8015a8c4fbfcbe3b8ca13af4`.
+
+**Checkpoint:** 8/200 indexed. Next A-009. Second sequential assay in this authorised three-sentence batch. Earlier checkpoints remain historical.

@@ -4,7 +4,7 @@ The repository is an **exhibition of a method under test**, not a declaration th
 
 ## Authorities and records
 
-1. **Canonical vocabulary:** [THE_54_CONTROL.md](https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md) controls the 15 definitions, Dimensional Conjunction, numbering and crystallizations until an explicit versioned change.
+1. **Canonical vocabulary:** [THE_54_CONTROL.md](THE_54_CONTROL.md) controls the 15 definitions, Dimensional Conjunction, numbering and crystallizations until an explicit versioned change.
 2. **Working synthesis:** [OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html) is the complete HTML exhibition of the uploaded root Markdown workbook, which is the research source of record.
 3. **Frozen corpora:** Sections 15 and 16 of the unified workbook contain both complete frozen corpora, with stable IDs A-001…A-100 and B-001…B-100. Do not silently rewrite a sentence after freezing.
 4. **Experimental results:** `laboratory/RESOLUTION_REGISTER.md` tracks candidate resolutions and their revisions separately from source sentences.
@@ -12,14 +12,15 @@ The repository is an **exhibition of a method under test**, not a declaration th
 
 ## Resolution protocol
 
-1. Record the exact sentence, corpus ID and source version.
-2. **Stage One, without taxonomy:** trace unfolding intelligibility; identify the governing demand, decisive dependency, sufficiency condition and minimal Operative Centre. Freeze this record.
-3. **Stage Two:** apply Transformation Pattern, Completion Topology and Persistence Mode as simultaneous constraints on the one completion-event; compute candidate cell number.
-4. Test at least the strongest one-axis neighbour, and a cross-pattern rival where relevant.
-5. Use counterfactuals to test the centre and the proposed dimensional distinction. Note when a test cannot discriminate between rivals.
-6. Record confidence, abstention or uniqueness withheld. Do not turn agreement into a claim of verified truth.
-7. If independent assessment is requested, give the other assessor the predeclared permitted inputs, freeze its answer before comparison, then record exact-cell and dimensional agreement.
-8. Corrections are appended with dates, reasons and superseded candidate IDs. Never rewrite a frozen response as though it were original.
+**Start here:** [Operative Centre Confirmation and the One-Way Threshold](OPERATIVE_CENTRE_CONFIRMATION_PROTOCOL.md) is the operative step-by-step protocol for fresh GPT tests.
+
+1. Retrieve the exact source sentence and establish its governing achievement **without using the 54-cell lookup**.
+2. Apply the six Centre confirmation questions: what was unresolved, what changed, what made completion sufficient, where sufficiency is located, what remains achieved, and what would invalidate it.
+3. Verify minimality, full coverage, non-invention and determinacy. Freeze the complete Centre Confirmation Record.
+4. Declare **OPERATIVE CENTRE CONFIRMED — SOURCE SENTENCE CLOSED.** Do not reopen the source sentence during classification.
+5. From the frozen record alone, apply Dimensional Conjunction using the canonical reference; eliminate incompatible cells by structural contradiction, not semantic resemblance.
+6. Derive the strongest surviving cell and test nearest rivals against the **frozen Centre**. If the record does not discriminate, name the exact boundary rather than making a preference-based choice.
+7. Preserve each record and any later revisions as separate dated entries; never silently overwrite the frozen Centre.
 
 ## Status vocabulary
 

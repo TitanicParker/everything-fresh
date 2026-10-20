@@ -1,12 +1,5 @@
-# Frozen sentence corpora
+# Frozen corpora
 
-Two collections form the current 200-sentence test bed:
+Both complete 100-sentence collections are embedded in the [unified HTML workbook](../OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html), sections 15 (world statements) and 16 (scientific statements). They use stable identifiers A-001…A-100 and B-001…B-100.
 
-| Corpus | Source | IDs | Status |
-|---|---|---|---|
-| A | *One Hundred Statements About the World* | A-001…A-100 | Exact-text import pending |
-| B | *Science: 100 Sentences for Independent Operative Centre Testing* | B-001…B-100 | Exact-text import pending |
-
-The prepared 200-sentence workbook already includes both collections. Extract their **original text**, not paraphrases, into `A-world-100.md` and `B-science-100.md`. Keep original sentence order and labels. Avoid adding proposed coordinates to these source files.
-
-Analysis is keyed to IDs in [the resolution register](../laboratory/RESOLUTION_REGISTER.md). See [workflow](../WORKFLOW.md).
+The original Markdown workbook is the source of record. Do not create separately editable duplicate corpora or add classifications to the source sentences. Record interpretations in the [resolution register](../RESOLUTION_REGISTER.html).

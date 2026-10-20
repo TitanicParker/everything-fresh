@@ -16,6 +16,7 @@ The existing numbered chapters **01–15** and the public site remain in place. 
 - [Research workflow](WORKFLOW.md): centre-first assay, simultaneous Dimensional Conjunction, rivals, freezing, comparison, revision.
 - [Unified workbook](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): complete Edition 1.1 unified workbook already uploaded to the repository root.
 - [Frozen corpora](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): A-001…A-100 (world) and B-001…B-100 (science). both source corpora embedded in the unified workbook.
+- [Fresher corpus stewardship](laboratory/FRESHER_STEWARDSHIP.md): delegated one-sentence-at-a-time resolution, direct GitHub record writing, and diligence trail.
 - [Resolution register](laboratory/RESOLUTION_REGISTER.md): append-only analyses keyed to sentence IDs; no invented classifications.
 - [Independent tests](laboratory/INDEPENDENT_TESTS.md): exploratory agreement and disagreement, with limitations.
 - [Canonical controlling reference](THE_54_CONTROL.md): the definitions, Dimensional Conjunction and 54-cell lookup.

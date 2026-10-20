@@ -91,3 +91,15 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence provenance:** [record creation commit](https://github.com/TitanicParker/everything-fresh/commit/c541e8b52eecfd7d339ec9dd2241c60509143990); exact-content read-back verified before this index update; record blob `1f152dc7a719882f36c6a4a1bd11e462800def2b`.
 
 **Latest first-pass progress:** 5/200 indexed, including two contested assays. **Next target:** A-006. Only A-005 was resolved in this invocation. Revisions require separate records and appended entries.
+
+## First-pass continuation — A-006 — 20 October 2026
+
+Earlier progress statements are historical checkpoints. This is the latest appended first-pass checkpoint.
+
+| Record ID | Sentence / full record | Date / assessor | Assay version | Outcome | Rivals / confidence / uniqueness |
+|---|---|---|---|---|---|
+| FRESHER-A-006-2026-10-20-01 | [A-006 — complete resolution and diligence](resolutions/A-006.md) | 2026-10-20; Fresher / OpenAI Codex | Achieved-identity protocol, commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5` | Candidate: **24 — Relational cycle; Relating × Distributed × Efficacy**. Frozen Centre: oceanic intercontinental heat movement unobtrusively influences weather and harvests; the achievement is that transport-mediated consequential reach. | Nearest **21 — Responsive return; Relating × Focal × Efficacy**. Secondary 23 and 42. Medium-high confidence in operative relation, moderate in topology; uniqueness not established. No literal feedback loop inferred. Diligence A-006-D1–D3 retained. |
+
+**Persistence provenance:** [record creation commit](https://github.com/TitanicParker/everything-fresh/commit/ea83079789b68c742b5900fff12be9fe86c16faf); exact-content read-back verified before this index update; record blob `612ba16343b3037f2e9bc95d192be395bc8bd25c`.
+
+**Latest first-pass progress:** 6/200 indexed, including two contested assays. **Next target:** A-007. Only A-006 was resolved in this invocation. Revisions require separate records and appended entries.

@@ -20,8 +20,25 @@ Work with the source sentence **without consulting cell names, the cell lookup, 
 | What changed? | The determination achieved by the whole utterance |
 | What made it sufficient? | The indispensable constitutive organisation |
 | Where is sufficiency located? | The locus or combination necessary for completion |
-| What remains achieved? | How the completion holds and remains available |
+| What remains achieved? | The exact identity of what is left achieved, including what must remain constitutive for it to hold as *this* completion (see the holding test below) |
 | What would invalidate it? | The smallest change that defeats that achievement |
+
+### Sharpened holding test — complete before freezing
+
+The question **“What remains achieved?”** must do more than name the outcome or say that it continues. While the sentence is still open, determine **what the achievement consists in once it is complete**. Write the answer without canonical axis terms or cell names.
+
+Answer these four prompts as a single description of the Centre:
+
+1. **Identity:** What exactly has been established? Distinguish a completed determination, an achievement constituted by its dependence on something else, and an achieved way something can proceed or operate — *in ordinary language, without selecting among taxonomic categories*.
+2. **Constitutive dependency:** If a stated condition, contrast, support, or relation were no longer part of the achievement, would the *identity of the completed result* change, or would only its description or evidential support change? Say precisely which.
+3. **Operative continuation:** Does the achieved result itself determine what can subsequently happen, how something can operate, or how a continuation proceeds? If yes, describe the exact consequence established. **Do not infer a capacity merely because a statement is a rule, could be applied, or is practically useful.**
+4. **Minimal invalidation:** What smallest change would make the *completed achievement itself* no longer hold? Distinguish loss of the result from loss of the relation constituting it or loss of its operative consequence.
+
+**Required final line in Gate One:** “What remains achieved is ___; it holds as this achievement because ___; removing ___ would change/defeat it in the following way: ___.”
+
+The record must distinguish the **constitution of completion** (what makes it sufficient) from the **identity of what remains achieved** (what persists as the completed result). Do not mistake the presence of multiple terms for a distributed completion, a relational sentence for relation-dependent holding, or the description of motion/change for an achieved operative consequence. These distinctions must come from the Centre analysis, not from a preview of the 54 cells.
+
+If two materially different accounts of what remains achieved still fit, continue testing them **before** confirmation. Do not leave the choice to cell selection after the One-Way Threshold.
 
 Before confirming, check **coverage** (nothing governing omitted), **minimality** (nothing unnecessary included), **non-invention** (nothing unsupported added), and **determinacy** (one complete governing achievement described).
 
@@ -33,7 +50,7 @@ Before confirming, check **coverage** (nothing governing omitted), **minimality*
 - **Achieved completion:** what is made sufficient.
 - **Constitutive organisation:** how the achievement becomes sufficient.
 - **Location of sufficiency:** what is constitutive of its completion.
-- **Mode of holding:** how the achieved determination remains available.
+- **Mode of holding:** the completed holding-test line, specifying the result's identity, what remains constitutive of that identity, and the minimal change that defeats it.
 - **Decisive counterfactual:** the smallest variation that would defeat it.
 - **Confirmation:** coverage, minimality, determinacy and non-invention check.
 

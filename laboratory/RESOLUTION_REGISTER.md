@@ -103,3 +103,13 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence provenance:** [record creation commit](https://github.com/TitanicParker/everything-fresh/commit/ea83079789b68c742b5900fff12be9fe86c16faf); exact-content read-back verified before this index update; record blob `612ba16343b3037f2e9bc95d192be395bc8bd25c`.
 
 **Latest first-pass progress:** 6/200 indexed, including two contested assays. **Next target:** A-007. Only A-006 was resolved in this invocation. Revisions require separate records and appended entries.
+
+## First-pass continuation — A-007 — 20 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-007-2026-10-20-01 | [A-007](resolutions/A-007.md) | **Contested: 19 — Direct bearing (Relating × Focal × Standing); 20 — Pivoted balance (Relating × Focal × Bearing); 21 — Responsive return (Relating × Focal × Efficacy).** Centre: one seed carries action-directed guidance across the four named domains; attribution versus effective endowment remains unresolved. | Fresher / OpenAI Codex, 2026-10-20; protocol commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5`. Prior external GPT excerpt disclosed; not blind. Moderate confidence in common constraints, uniqueness not established; D1–D4 in full record. |
+
+**Persistence:** [record commit](https://github.com/TitanicParker/everything-fresh/commit/334f3b7fe3086a86b2a4a34a826e502eba7cab30); exact read-back before indexing, blob `1a8af91c38c9e0dec1147d54bdaefe141a8b7168`.
+
+**Checkpoint:** 7/200 indexed. Next A-008. This is the first of three sequential assays expressly authorised in this invocation. Older progress statements above are historical.

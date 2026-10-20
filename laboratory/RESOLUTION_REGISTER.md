@@ -133,3 +133,17 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** [record commit](https://github.com/TitanicParker/everything-fresh/commit/fa57708a9f5e5801f89aec32c7713afefb6488bd); exact read-back before indexing; blob `70f5b14a4fa6e597dbee9a66aa096fe9d8e09b9e`.
 
 **Latest checkpoint:** 9/200 indexed. Next A-010. A-007, A-008 and A-009 were processed sequentially in the owner's expressly authorised three-sentence batch; each full record was persisted and indexed before the next assay. Earlier progress statements remain historical.
+
+## Revision — A-007 revision 02 — 20 October 2026
+
+**Current A-007 resolution:** **40 — Role array; Integration × Distributed × Standing.** This supersedes the first-pass 19/20/21 contested interpretation for the current result. The earlier record and its index remain historical evidence.
+
+| Record ID | Full record | Revised Centre and outcome | Reason / diligence |
+|---|---|---|---|
+| FRESHER-A-007-2026-10-20-R02 | [A-007 revision 02](resolutions/A-007-revision-02.md) | Instructions for negotiating soil, sunlight, insects and time together constitute a single seed's unified instructional endowment. **Revised: Cell 40 — Role array; Integration × Distributed × Standing.** Nearest tested rival 41; 42 and 37 also excluded under the new Centre. | Fresher / OpenAI Codex, 2026-10-20. Protocol commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5`. Reopened Gate One in a new record after A-003 comparison; medium-high confidence. The whole's contributions, rather than possession grammar, govern. [Original A-007](resolutions/A-007.md) remains unchanged. |
+
+**Learned correction for subsequent assays:** grammatical possession must not substitute for identifying the complete governing achievement. Distinguish an inventory, a connection, contributions to a whole, supporting dependence and operative capacity before freezing. A single bearer need not make completion Focal; composition across contributions need not require executed encounters. The full case-derived lesson is preserved in revision 02; no canonical or protocol amendment is made.
+
+**Persistence provenance:** [revision creation commit](https://github.com/TitanicParker/everything-fresh/commit/ff8ea821001488751543f95f9c05b7b380ef0123); exact read-back verified before this index update, revision blob `2c090b0c4feeca620fba827dbd184aa63c0c49c7`. Original A-007 blob `1a8af91c38c9e0dec1147d54bdaefe141a8b7168` verified unchanged.
+
+**Progress remains:** 9/200 first-pass sentences, with one separately indexed revision. **Next unworked sentence:** A-010.

@@ -67,3 +67,15 @@ Earlier progress statements remain historical checkpoints. This is the latest ap
 **Persistence provenance:** full record created in [commit `278b2d7`](https://github.com/TitanicParker/everything-fresh/commit/278b2d7cf0834b0e726edd5251f6c44b655d7084), then read back with exact content equality before this index update; record blob `a993b87df9bd9c2c6b05e8d431a7b78db6a6ae18`.
 
 **Latest first-pass progress:** 3/200 indexed, including one contested assay and one explicitly collaborative assay. **Next target:** A-004. This invocation preserves the completed A-003 discussion; no new sentence was resolved. Revisions must remain separate and separately indexed.
+
+## First-pass continuation — A-004 — 20 October 2026
+
+Earlier progress statements are retained as historical checkpoints. This is the latest appended first-pass checkpoint.
+
+| Record ID | Sentence / full record | Date / assessor | Assay version | Outcome | Rivals / confidence / uniqueness |
+|---|---|---|---|---|---|
+| FRESHER-A-004-2026-10-20-01 | [A-004 — complete resolution and diligence](resolutions/A-004.md) | 2026-10-20; Fresher / OpenAI Codex | Achieved-identity protocol, commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5` | Candidate: **01 — Focal mark; Differentiation × Focal × Standing**. Frozen Centre: somewhere in the source's tonight, an unspecified child will acquire determinate knowledge that the moon follows nobody home. Future status retained; prior false belief not assumed. | Nearest **10 — Source field; Opening × Focal × Standing**; secondary 19 and 46. Moderate confidence; uniqueness not established. Nonblind single-assessor assay; diligence A-004-D1–D4 retained. |
+
+**Persistence provenance:** [record creation commit](https://github.com/TitanicParker/everything-fresh/commit/8c863604dd761ca299e259cbfb36de7e2d4652ef); record read back with exact content equality before this index update; verified record blob `2a93e9e3a77d67359f698d8b362e372b9fd1ecff`.
+
+**Latest first-pass progress:** 4/200 indexed. **Next target:** A-005. Only A-004 was resolved in this run. Later revisions require separate records and appended entries.

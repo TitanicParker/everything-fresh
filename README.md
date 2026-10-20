@@ -12,12 +12,13 @@ The existing numbered chapters **01–15** and the public site remain in place. 
 
 ## Workbook-first research backbone
 
+- **[Operative Centre confirmation protocol](OPERATIVE_CENTRE_CONFIRMATION_PROTOCOL.md): six-question Centre gate, frozen record, and one-way threshold.**
 - [Research workflow](WORKFLOW.md): centre-first assay, simultaneous Dimensional Conjunction, rivals, freezing, comparison, revision.
 - [Unified workbook](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): complete Edition 1.1 unified workbook already uploaded to the repository root.
 - [Frozen corpora](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): A-001…A-100 (world) and B-001…B-100 (science). both source corpora embedded in the unified workbook.
 - [Resolution register](laboratory/RESOLUTION_REGISTER.md): append-only analyses keyed to sentence IDs; no invented classifications.
 - [Independent tests](laboratory/INDEPENDENT_TESTS.md): exploratory agreement and disagreement, with limitations.
-- [Canonical controlling reference](https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md): the definitions, Dimensional Conjunction and 54-cell lookup.
+- [Canonical controlling reference](THE_54_CONTROL.md): the definitions, Dimensional Conjunction and 54-cell lookup.
 
 **Important:** Collecting 200 sentences is not the same as resolving them. The workbook and both corpora are now present; classifications remain separate experimental work.
 

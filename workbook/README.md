@@ -1,9 +1,13 @@
-# The living workbook
+# The unified workbook — authoritative working edition
 
-The workbook is the **research source of record** for the Operative Centre method, canonical vocabulary, 54-cell lookup, protocols, two 100-sentence corpora, and continuing experimental records.
+The complete Edition 1.1 workbook is already committed on `main` at the repository root:
 
-**Pending import:** `OPERATIVE_CENTRE_WORKBOOK.md` has not yet been committed in this restructuring branch. The prepared local file is `OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.md`. Import its complete contents under the stable repository filename `OPERATIVE_CENTRE_WORKBOOK.md` without summarising or regenerating it.
+**[OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.md](../OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.md)**
 
-After import, version substantive changes in the workbook's revision log. Keep source corpora frozen; put subsequent classifications and disputes in `../laboratory/`. The canonical control remains [fiche-ceathar/THE_54_CONTROL.md](https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md) unless explicitly superseded.
+This 824-line source includes the resolution toolbox, canonical vocabulary, 54-cell lookup, procedures, Corpus A (100 world statements), Corpus B (100 science sentences), and a working revision log.
+
+**Do not duplicate or regenerate the workbook under this folder.** Keep the existing root filename as the stable source of record unless a separate reviewed migration is approved.
+
+The canonical controlling definitions remain in [fiche-ceathar/THE_54_CONTROL.md](https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md). Record sentence resolutions separately in [the laboratory](../laboratory/RESOLUTION_REGISTER.md), using IDs defined in the workbook.
 
 See [workflow](../WORKFLOW.md).

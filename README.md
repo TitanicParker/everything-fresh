@@ -6,24 +6,24 @@ This repository exhibits a **research method under test**. The 54 are a proposed
 
 ## Enter the exhibition
 
-[Homepage](index.html) · [Operative Centre](05-operative-centre.md) · [Sentence laboratory](10-sentence-laboratory.md) · [54-cell atlas](09-atlas.md) · [Full exhibition guide](exhibition/README.md)
+[Homepage](index.html) · [Operative Centre](05-operative-centre.html) · [Sentence laboratory](10-sentence-laboratory.html) · [54-cell atlas](09-atlas.html) · [Full exhibition guide](exhibition/README.md)
 
 The existing numbered chapters **01–15** and the public site remain in place. The exhibition now has a separate research backbone.
 
 ## Workbook-first research backbone
 
 - [Research workflow](WORKFLOW.md): centre-first assay, simultaneous Dimensional Conjunction, rivals, freezing, comparison, revision.
-- [Workbook staging](workbook/README.md): planned home of the complete 200-sentence working workbook. **Import pending.**
-- [Frozen corpora](corpora/README.md): A-001…A-100 (world) and B-001…B-100 (science). **Exact-text import pending.**
+- [Unified workbook](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): complete Edition 1.1 unified workbook already uploaded to the repository root.
+- [Frozen corpora](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): A-001…A-100 (world) and B-001…B-100 (science). both source corpora embedded in the unified workbook.
 - [Resolution register](laboratory/RESOLUTION_REGISTER.md): append-only analyses keyed to sentence IDs; no invented classifications.
 - [Independent tests](laboratory/INDEPENDENT_TESTS.md): exploratory agreement and disagreement, with limitations.
 - [Canonical controlling reference](https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md): the definitions, Dimensional Conjunction and 54-cell lookup.
 
-**Important:** Collecting 200 sentences is not the same as resolving them. The workbook and exact source corpora must be imported before the repository is described as fully consolidated.
+**Important:** Collecting 200 sentences is not the same as resolving them. The workbook and both corpora are now present; classifications remain separate experimental work.
 
 ## Reading the original chapters
 
-[Intelligibility](01-intelligibility.md) → [Structure and meaning](02-structure-and-meaning.md) → [Sentence as unitus](03-the-sentence.md) → [Unfolding](04-unfolding-and-landing.md) → [Operative Centre](05-operative-centre.md) → [Transformations](06-transformations.md) → [Topologies](07-topologies.md) → [Persistence](08-persistence.md) → [Atlas](09-atlas.md) → [Laboratory](10-sentence-laboratory.md) → [History](11-history.md) → [Experiments](12-experiments.md) → [Glossary](13-glossary.md) → [Sources](14-sources.md) → [Open questions](15-open-questions.md)
+[Intelligibility](01-intelligibility.html) → [Structure and meaning](02-structure-and-meaning.html) → [Sentence as unitus](03-the-sentence.html) → [Unfolding](04-unfolding-and-landing.html) → [Operative Centre](05-operative-centre.html) → [Transformations](06-transformations.html) → [Topologies](07-topologies.html) → [Persistence](08-persistence.html) → [Atlas](09-atlas.html) → [Laboratory](10-sentence-laboratory.html) → [History](11-history.html) → [Experiments](12-experiments.html) → [Glossary](13-glossary.html) → [Sources](14-sources.html) → [Open questions](15-open-questions.html)
 
 ## GitHub Pages
 

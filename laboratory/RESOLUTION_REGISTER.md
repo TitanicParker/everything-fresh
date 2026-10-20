@@ -123,3 +123,13 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** [record commit](https://github.com/TitanicParker/everything-fresh/commit/375904af50169b9b286c11847d761df999bdf4e7); exact read-back before indexing; blob `7d50028a1527b6ee8015a8c4fbfcbe3b8ca13af4`.
 
 **Checkpoint:** 8/200 indexed. Next A-009. Second sequential assay in this authorised three-sentence batch. Earlier checkpoints remain historical.
+
+## First-pass continuation — A-009 — 20 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-009-2026-10-20-01 | [A-009](resolutions/A-009.md) | Candidate **24 — Relational cycle; Relating × Distributed × Efficacy**. Centre: people construct clocks for measurement, then organise their lives around those same instruments; the achievement is the tools' consequential bearing on their makers' lives. Nearest **23 — Reciprocal shift; Relating × Distributed × Bearing**; topology rival 21. | Fresher / OpenAI Codex, 2026-10-20; protocol commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5`. Moderate confidence in boundary discrimination; uniqueness not established; D1–D3 retained. |
+
+**Persistence:** [record commit](https://github.com/TitanicParker/everything-fresh/commit/fa57708a9f5e5801f89aec32c7713afefb6488bd); exact read-back before indexing; blob `70f5b14a4fa6e597dbee9a66aa096fe9d8e09b9e`.
+
+**Latest checkpoint:** 9/200 indexed. Next A-010. A-007, A-008 and A-009 were processed sequentially in the owner's expressly authorised three-sentence batch; each full record was persisted and indexed before the next assay. Earlier progress statements remain historical.

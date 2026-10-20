@@ -55,3 +55,15 @@ Earlier progress and next-target statements above are historical checkpoints. Th
 **Persistence provenance:** [record creation commit](https://github.com/TitanicParker/everything-fresh/commit/7ef2a061635a08f75e3fecd510630d5d1c2a058c); exact-content read-back verified before this register update; record blob `54d925bcaffbfe3a9c741c09f16e26321726df6e`.
 
 **Latest first-pass progress:** 2/200 indexed, including one contested assay. **Next target:** A-003. Only A-002 was processed in this invocation. Revisions remain separate records and appended entries.
+
+## First-pass continuation — A-003 — 20 October 2026
+
+Earlier progress statements remain historical checkpoints. This is the latest appended first-pass checkpoint.
+
+| Record ID | Sentence / full record | Date / assessor | Assay version | Outcome | Rivals / confidence / uniqueness |
+|---|---|---|---|---|---|
+| FRESHER-A-003-2026-10-20-01 | [A-003 — complete collaborative resolution and diligence](resolutions/A-003.md) | 2026-10-20; Fresher / OpenAI Codex; user discussion before freeze | Achieved-identity protocol, commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5` | Candidate: **40 — Role array; Integration × Distributed × Standing**. Frozen Centre: every forest floor is characterised as a densely active whole in which decay, nourishment and renewal participate together, through the marketplace metaphor. | Nearest **41 — Mutual-support structure; Integration × Distributed × Bearing**; secondary 37 and 42. Moderate confidence; uniqueness not established. Collaborative/nonblind; user's integration hypothesis disclosed. Diligence A-003-D1–D4 retained. |
+
+**Persistence provenance:** full record created in [commit `278b2d7`](https://github.com/TitanicParker/everything-fresh/commit/278b2d7cf0834b0e726edd5251f6c44b655d7084), then read back with exact content equality before this index update; record blob `a993b87df9bd9c2c6b05e8d431a7b78db6a6ae18`.
+
+**Latest first-pass progress:** 3/200 indexed, including one contested assay and one explicitly collaborative assay. **Next target:** A-004. This invocation preserves the completed A-003 discussion; no new sentence was resolved. Revisions must remain separate and separately indexed.

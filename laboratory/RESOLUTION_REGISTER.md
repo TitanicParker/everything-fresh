@@ -43,3 +43,15 @@ The empty-register statement above is retained as the pre-stewardship historical
 **Persistence provenance:** the full A-001 record was created first in [commit `4c4280c`](https://github.com/TitanicParker/everything-fresh/commit/4c4280c92417f6e3ec3ecc49dc60b232d0896f1b) and read back with exact content equality before this index update; verified record blob `035f53afede6b05e3ebee57134780eade50e2233`.
 
 **First-pass progress:** 1/200 indexed. **Next target:** A-002. No other sentence was processed in this run. Later revisions must be separate records and appended index entries.
+
+## First-pass continuation — A-002 — 20 October 2026
+
+Earlier progress and next-target statements above are historical checkpoints. This appended entry is the latest completed first-pass checkpoint.
+
+| Record ID | Sentence / full record | Date / assessor | Assay version | Outcome | Rivals / confidence / uniqueness |
+|---|---|---|---|---|---|
+| FRESHER-A-002-2026-10-20-01 | [A-002 — complete resolution and diligence](resolutions/A-002.md) | 2026-10-20; Fresher / OpenAI Codex | Achieved-identity protocol, commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5` | **Contested: 05 — Context-bound mark (Differentiation × Distributed × Bearing) / 23 — Reciprocal shift (Relating × Distributed × Bearing).** Frozen Centre: river border-indifference and national contestation form a contrast through opposed treatments of the same resource. | 05 and 23 are equally material rivals; no ranking justified. High confidence in governing contrast; medium in shared topology/persistence; uniqueness not established. Secondary 04/22 and 02/20 audited in full record. Diligence A-002-D1/D2/D3 retained. No prior A-002 record. |
+
+**Persistence provenance:** [record creation commit](https://github.com/TitanicParker/everything-fresh/commit/7ef2a061635a08f75e3fecd510630d5d1c2a058c); exact-content read-back verified before this register update; record blob `54d925bcaffbfe3a9c741c09f16e26321726df6e`.
+
+**Latest first-pass progress:** 2/200 indexed, including one contested assay. **Next target:** A-003. Only A-002 was processed in this invocation. Revisions remain separate records and appended entries.

@@ -32,3 +32,7 @@
 At handover, **zero first-pass corpus resolutions are indexed in the register**. Exploratory tests may exist in conversation history, but they are not automatically counted. **Start with A-001**, unless the repository has acquired a complete indexed record before Fresher runs. The objective is a diligent 200-record corpus, not a prefilled list of assumed cells.
 
 **User-facing continuation instruction:** “Fresher: continue your 200-sentence stewardship. Resolve and commit the next unworked sentence, then show me the saved record and next ID.”
+
+## Continuation guide
+
+The [Fresher continuation handover](FRESHER_HANDOVER.md) preserves the current checkpoint, working method, case-derived lessons, receipt publication and museum integration. Read it when taking over in a new conversation, then verify progress against the live register and resolution files. Its dated checkpoint is a snapshot; the live ledger remains the queue authority.

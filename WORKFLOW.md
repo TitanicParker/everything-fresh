@@ -5,8 +5,8 @@ The repository is an **exhibition of a method under test**, not a declaration th
 ## Authorities and records
 
 1. **Canonical vocabulary:** [THE_54_CONTROL.md](https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md) controls the 15 definitions, Dimensional Conjunction, numbering and crystallizations until an explicit versioned change.
-2. **Working synthesis:** `workbook/OPERATIVE_CENTRE_WORKBOOK.md` is the intended consolidated research record. The prepared 200-sentence workbook must be imported and verified before this path becomes authoritative.
-3. **Frozen corpora:** `corpora/A-world-100.md` and `corpora/B-science-100.md` are the intended exact-text source copies, with stable IDs A-001…A-100 and B-001…B-100. Do not silently rewrite a sentence after freezing.
+2. **Working synthesis:** [OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html) is the complete HTML exhibition of the uploaded root Markdown workbook, which is the research source of record.
+3. **Frozen corpora:** Sections 15 and 16 of the unified workbook contain both complete frozen corpora, with stable IDs A-001…A-100 and B-001…B-100. Do not silently rewrite a sentence after freezing.
 4. **Experimental results:** `laboratory/RESOLUTION_REGISTER.md` tracks candidate resolutions and their revisions separately from source sentences.
 5. **Exhibition:** `index.html` and the numbered chapters explain and demonstrate the method. They should link to, not replace, the evidence.
 
@@ -40,9 +40,9 @@ The repository is an **exhibition of a method under test**, not a declaration th
 
 ## Initial import checklist
 
-- [ ] Copy the complete prepared 200-sentence workbook to `workbook/OPERATIVE_CENTRE_WORKBOOK.md`.
-- [ ] Extract both exact source corpora into their intended files without changing text.
-- [ ] Check that A-001…A-100 and B-001…B-100 each appear exactly once.
-- [ ] Confirm all workbook cross-links and update its revision history.
-- [ ] Link the public homepage to the workbook and the two corpora after the files exist.
+- [x] The complete Edition 1.1 workbook is uploaded to the repository root.
+- [x] Both exact source corpora are included in the unified workbook.
+- [ ] Programmatically verify both corpora and all 200 identifiers.
+- [x] The HTML exhibition links to the unified workbook.
+- [x] The public homepage links to HTML chapters and the workbook.
 - [ ] Add first verified resolution entries; do not pre-populate 200 speculative cells.

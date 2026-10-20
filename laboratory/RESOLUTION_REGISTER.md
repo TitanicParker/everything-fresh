@@ -79,3 +79,15 @@ Earlier progress statements are retained as historical checkpoints. This is the 
 **Persistence provenance:** [record creation commit](https://github.com/TitanicParker/everything-fresh/commit/8c863604dd761ca299e259cbfb36de7e2d4652ef); record read back with exact content equality before this index update; verified record blob `2a93e9e3a77d67359f698d8b362e372b9fd1ecff`.
 
 **Latest first-pass progress:** 4/200 indexed. **Next target:** A-005. Only A-004 was resolved in this run. Later revisions require separate records and appended entries.
+
+## First-pass continuation — A-005 — 20 October 2026
+
+Earlier progress statements are historical checkpoints. This is the latest appended first-pass checkpoint.
+
+| Record ID | Sentence / full record | Date / assessor | Assay version | Outcome | Rivals / confidence / uniqueness |
+|---|---|---|---|---|---|
+| FRESHER-A-005-2026-10-20-01 | [A-005 — complete resolution and diligence](resolutions/A-005.md) | 2026-10-20; Fresher / OpenAI Codex | Achieved-identity protocol, commit `69cbdfc6574278b7ebbeb9ee1acd4a2d011e83e5` | **Contested: 24 — Relational cycle (Relating × Distributed × Efficacy) / 42 — Role activation (Integration × Distributed × Efficacy).** Frozen Centre: cities grow through establishing practical usefulness among strangers without requiring introductions; the achievement is that consequential way growth proceeds. | Useful connections versus functional contributions to an urban whole remain material rivals; no justified ranking. Secondary 23/41 and Release alternatives tested. Medium-high confidence in operative contribution, moderate in shared constraints; uniqueness not established. Diligence A-005-D1–D3 retained. |
+
+**Persistence provenance:** [record creation commit](https://github.com/TitanicParker/everything-fresh/commit/c541e8b52eecfd7d339ec9dd2241c60509143990); exact-content read-back verified before this index update; record blob `1f152dc7a719882f36c6a4a1bd11e462800def2b`.
+
+**Latest first-pass progress:** 5/200 indexed, including two contested assays. **Next target:** A-006. Only A-005 was resolved in this invocation. Revisions require separate records and appended entries.

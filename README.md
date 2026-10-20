@@ -17,6 +17,7 @@ The existing numbered chapters **01–15** and the public site remain in place. 
 - [Unified workbook](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): complete Edition 1.1 unified workbook already uploaded to the repository root.
 - [Frozen corpora](OPERATIVE_CENTRE_WORKBOOK_200_SENTENCES.html): A-001…A-100 (world) and B-001…B-100 (science). both source corpora embedded in the unified workbook.
 - [Fresher corpus stewardship](laboratory/FRESHER_STEWARDSHIP.md): delegated one-sentence-at-a-time resolution, direct GitHub record writing, and diligence trail.
+- [Fresher continuation handover](laboratory/FRESHER_HANDOVER.md): current queue, complete operating method, the A-007 correction, public receipt cycle and museum integration for a new GPT.
 - [Sentence receipts](sentence-receipts.html): completed sentences, current solutions and commentary, with full HTML diligence one link away.
 - [Resolution register](RESOLUTION_REGISTER.html): current public index; the [Markdown ledger](laboratory/RESOLUTION_REGISTER.md) preserves the append-only research history.
 - [Independent tests](laboratory/INDEPENDENT_TESTS.md): exploratory agreement and disagreement, with limitations.

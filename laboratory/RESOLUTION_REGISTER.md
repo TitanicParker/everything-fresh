@@ -410,3 +410,12 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** complete research record created in commit `aaea405bdbc4bc8654d5acf9621e39aef14a234c`, then read back and checked; verified blob `6575697e3b34746c4aa0043a4a5329c916ca92be`. The frozen Gate One was not changed during Gate Two editorial correction. Earlier records and frozen corpus remain unchanged.
 
 **Latest checkpoint:** **33/200 first-pass investigations**, plus A-007 revision 02. **Next unworked sentence: A-034.** A-033 is a candidate classification, **not a uniquely confirmed cell**. Publication and teaching synchronisation must be verified separately.
+
+
+## First-pass continuation — A-034 — 21 October 2026
+
+| Record ID | Full record | Outcome | Discovery |
+|---|---|---|---|
+| FRESHER-A-034-2026-10-21-01 | [A-034](resolutions/A-034.md) | **Cell 12 — Branching output; Opening × Focal × Efficacy.** Corrected Centre: **One open door can give rise to four distinct possibilities of meaning: welcome, escape, opportunity, and forgotten obligation.** | The initial Centre wrongly imported a question of which meaning is selected. Owner challenge exposed the positive **one source → four possible significances** achievement. The correction and full-strength rivals (15, 13, 05, 04) are preserved in the record. The axes emerge together from the one-to-many capacity: Opening, Focal, Efficacy. |
+
+**Latest checkpoint:** **34/200 first-pass investigations**, plus A-007 revision 02. **Next unworked sentence: A-035.** A-034 is recorded as Cell 12, with its corrected Centre and research path preserved.

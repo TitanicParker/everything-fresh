@@ -190,3 +190,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record saved and verified by exact read-back before indexing; blob `ab9d8da822de6af5a260395331687f846ef2e8fb`. Earlier records and checkpoints are preserved unchanged.
 
 **Latest checkpoint:** 13/200 first-pass sentences, plus A-007 revision 02. Next A-014. These records were resolved sequentially in conversation and are now being persisted at the owner's request; this write pass does not represent new investigations.
+
+
+## First-pass continuation — A-014 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-014-2026-10-21-01 | [A-014](resolutions/A-014.md) | Candidate **20 — Pivoted balance; Relating × Focal × Bearing**. Centre: Even in broken condition, pottery bears evidence for archaeologists of ordinary people's past practical engagement with their world. Nearest rival **19 — Direct bearing**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Moderate confidence; selected under the frozen record; independent reproducibility not established. Full tests and D1/D2 in the linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `55b75ddfe11a1000e0739db6e6eefa4e1a7a528a`. No earlier record or frozen source modified.
+
+**Latest checkpoint:** 14/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-015. Sequential batch through A-020 authorised by the owner; this sentence was frozen, classified and persisted before the next investigation.

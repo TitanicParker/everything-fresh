@@ -300,3 +300,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `6e0d193902379689cb98d3bec3fa4e10a5fe904d`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 23/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-024. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-024 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-024-2026-10-21-01 | [A-024](resolutions/A-024.md) | Candidate **20 — Pivoted balance; Relating × Focal × Bearing**. Centre: A lighthouse's greatest significance obtains under the condition that darkness makes the coastline difficult to distinguish. Nearest rival **19 — Direct bearing**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Medium-high in conditional significance; moderate in topology confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence questions in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `f412cc3a665a40dc592811f98cd3d2f35c00932b`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 24/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-025. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.

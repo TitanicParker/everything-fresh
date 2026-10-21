@@ -234,3 +234,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `eec814a74ace0ebe12ae7e568844728a7c233f28`. No earlier record or frozen source modified.
 
 **Latest checkpoint:** 17/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-018. Sequential batch through A-020 authorised by the owner; this sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-018 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-018-2026-10-21-01 | [A-018](resolutions/A-018.md) | Candidate **23 — Reciprocal shift; Relating × Distributed × Bearing**. Centre: Every coastline is a provisional boundary constituted through the meeting of restless water and resistant land. Nearest rival **20 — Pivoted balance**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Medium-high in constitutive relation; moderate in topology confidence; selected under the frozen record; independent reproducibility not established. Full tests and D1/D2 in the linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `9766d30aa229b9f7d037fcc9d5788905de165466`. No earlier record or frozen source modified.
+
+**Latest checkpoint:** 18/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-019. Sequential batch through A-020 authorised by the owner; this sentence was frozen, classified and persisted before the next investigation.

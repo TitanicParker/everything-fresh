@@ -344,3 +344,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `8d7b55cced1d6cfa6dceaba34a2931133f0acf87`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 27/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-028. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-028 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-028-2026-10-21-01 | [A-028](resolutions/A-028.md) | Candidate **21 — Responsive return; Relating × Focal × Efficacy**. Centre: A new road changes travel jointly by shortening journeys and altering which towns people pass through. Nearest rival **24 — Relational cycle**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Moderate confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `1468312d7cfac89bcd83d7b4fda63a6e02c7b9c4`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 28/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-029. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.

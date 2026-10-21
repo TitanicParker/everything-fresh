@@ -409,7 +409,7 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 
 **Persistence:** complete research record created in commit `aaea405bdbc4bc8654d5acf9621e39aef14a234c`, then read back and checked; verified blob `6575697e3b34746c4aa0043a4a5329c916ca92be`. The frozen Gate One was not changed during Gate Two editorial correction. Earlier records and frozen corpus remain unchanged.
 
-**Latest checkpoint:** **33/200 first-pass investigations**, plus A-007 revision 02. **Next unworked sentence: A-034.** A-033 is a candidate classification, **not a uniquely confirmed cell**. Publication and teaching synchronisation must be verified separately.
+**Checkpoint after A-033:** **33/200 first-pass investigations**, plus A-007 revision 02. **Next unworked sentence: A-034.** A-033 is a candidate classification, **not a uniquely confirmed cell**. Publication and teaching synchronisation must be verified separately.
 
 
 ## First-pass continuation — A-034 — 21 October 2026

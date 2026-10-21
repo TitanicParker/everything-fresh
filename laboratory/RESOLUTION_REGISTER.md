@@ -289,3 +289,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `0d2edf899bb5eb882fd5ae12b68fe61652a75577`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 22/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-023. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-023 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-023-2026-10-21-01 | [A-023](resolutions/A-023.md) | Candidate **23 — Reciprocal shift; Relating × Distributed × Bearing**. Centre: Disagreements in the smallest village may attain an intricacy determined as matching that of disagreements in capitals. Nearest rival **22 — Sequential link**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Moderate confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence questions in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `6e0d193902379689cb98d3bec3fa4e10a5fe904d`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 23/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-024. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.

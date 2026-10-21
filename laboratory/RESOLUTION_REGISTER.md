@@ -399,3 +399,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `79720fe12191a3c2ba8c3ce6495d996789e2c75c`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 32/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-033. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.
+
+
+## First-pass continuation — A-033 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-033-2026-10-21-01 | [A-033](resolutions/A-033.md) | **Candidate 22 — Sequential link; Relating × Distributed × Standing**. Frozen Centre: trade winds' assistance in connecting distant shores is established as an accomplishment already occurring substantially before ocean-crossing aviation. Nearest rival **23 — Reciprocal shift (Bearing)**; secondary topology rival **19 — Direct bearing (Focal)**. | GPT-6 / ChatGPT with owner methodological tutoring; **collaborative, non-blind, not independent replication**. Source Edition 1.1 blob `1b511a439a5007a3c4a61c36ff5417f415005e2c`; protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. **Moderate candidate confidence; uniqueness not established.** Open persistence and topology boundaries documented in full record. |
+
+**Persistence:** complete research record created in commit `aaea405bdbc4bc8654d5acf9621e39aef14a234c`, then read back and checked; verified blob `6575697e3b34746c4aa0043a4a5329c916ca92be`. The frozen Gate One was not changed during Gate Two editorial correction. Earlier records and frozen corpus remain unchanged.
+
+**Latest checkpoint:** **33/200 first-pass investigations**, plus A-007 revision 02. **Next unworked sentence: A-034.** A-033 is a candidate classification, **not a uniquely confirmed cell**. Publication and teaching synchronisation must be verified separately.

@@ -355,3 +355,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `1468312d7cfac89bcd83d7b4fda63a6e02c7b9c4`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 28/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-029. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.
+
+
+## First-pass continuation — A-029 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-029-2026-10-21-01 | [A-029](resolutions/A-029.md) | Candidate **04 — Scope standing; Differentiation × Distributed × Standing**. Centre: Histories are present in the ground beneath a playground without any child's needing to know them, distinguishing their existence from the necessity of knowing. Nearest rival **05 — Context-bound mark**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Moderate confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `612d09f1d5372f557eb5e45c33188ebe155cf36c`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 29/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-030. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.

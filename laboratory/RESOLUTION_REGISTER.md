@@ -201,3 +201,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `55b75ddfe11a1000e0739db6e6eefa4e1a7a528a`. No earlier record or frozen source modified.
 
 **Latest checkpoint:** 14/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-015. Sequential batch through A-020 authorised by the owner; this sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-015 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-015-2026-10-21-01 | [A-015](resolutions/A-015.md) | Candidate **37 — Focal whole; Integration × Focal × Standing**. Centre: Attention is invited to the crowded station as hundreds of distinct journeys gathered at one shared platform. Nearest rival **40 — Role array**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Moderate confidence; selected under the frozen record; independent reproducibility not established. Full tests and D1/D2 in the linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `2c31ff355fd37ff734a42872fd08b75a9391ffe2`. No earlier record or frozen source modified.
+
+**Latest checkpoint:** 15/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-016. Sequential batch through A-020 authorised by the owner; this sentence was frozen, classified and persisted before the next investigation.

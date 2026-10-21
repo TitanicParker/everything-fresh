@@ -10,6 +10,12 @@ This repository exhibits a **research method under test**. The 54 are a proposed
 
 The existing numbered chapters **01–15** and the public site remain in place. The exhibition now has a separate research backbone.
 
+## Learn the method
+
+[How to do it](https://titanicparker.github.io/how-to-do-it/) is the companion teaching route. Follow the [learning path](https://titanicparker.github.io/how-to-do-it/learning-path.html), begin with the [ten-chapter Centre-finding workbook](https://titanicparker.github.io/how-to-do-it/workbook.html), then try [further practice from A-011–A-025](https://titanicparker.github.io/how-to-do-it/continuing-practice.html) before consulting research classifications.
+
+The [browser-readable confirmation protocol](confirmation-protocol.html) connects teaching to the full research method. The [Markdown protocol](OPERATIVE_CENTRE_CONFIRMATION_PROTOCOL.md), canonical control, frozen corpus, current register and preserved research records remain the authorities here. Teaching comparisons link back to their research provenance and do not replace the live results.
+
 ## Workbook-first research backbone
 
 - **[Operative Centre confirmation protocol](OPERATIVE_CENTRE_CONFIRMATION_PROTOCOL.md): six-question Centre gate, frozen record, and one-way threshold.**

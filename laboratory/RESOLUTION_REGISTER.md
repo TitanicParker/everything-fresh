@@ -377,3 +377,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `b552da0756fffc035534773b9eb08e463aa32472`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 30/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-031. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.
+
+
+## First-pass continuation — A-031 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-031-2026-10-21-01 | [A-031](resolutions/A-031.md) | Candidate **22 — Sequential link; Relating × Distributed × Standing**. Centre: A judge's decision can persist beyond the room in which it was first spoken. Nearest rival **23 — Reciprocal shift**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Medium-high in temporal ordering; moderate in topology confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `82a5deb26711f5eb8a20d64189ea686eb7a5d900`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 31/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-032. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.

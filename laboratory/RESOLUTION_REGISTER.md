@@ -322,3 +322,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `6c16943fc57656b92b874a9f05231ff4377ca36f`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 25/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-026. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-026 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-026-2026-10-21-01 | [A-026](resolutions/A-026.md) | Candidate **21 — Responsive return; Relating × Focal × Efficacy**. Centre: A bee's visit to a flower makes an almost imperceptible difference to an orchard's future. Nearest rival **24 — Relational cycle**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Moderate confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence questions in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `4dccd913976fd3e7476f89e119c97f0cf1fe8221`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 26/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-027. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.

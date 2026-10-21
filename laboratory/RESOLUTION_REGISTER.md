@@ -388,3 +388,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `82a5deb26711f5eb8a20d64189ea686eb7a5d900`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 31/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-032. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.
+
+
+## First-pass continuation — A-032 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-032-2026-10-21-01 | [A-032](resolutions/A-032.md) | Candidate **04 — Scope standing; Differentiation × Distributed × Standing**. Centre: The mountain remains fixed while each climber discovers a different approach, distinguishing constancy of the object from variation in approaching it. Nearest rival **05 — Context-bound mark**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Moderate confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `79720fe12191a3c2ba8c3ce6495d996789e2c75c`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 32/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-033. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.

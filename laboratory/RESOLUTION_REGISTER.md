@@ -223,3 +223,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `3248e177a966289d83b30ff9216db076a062a439`. No earlier record or frozen source modified.
 
 **Latest checkpoint:** 16/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-017. Sequential batch through A-020 authorised by the owner; this sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-017 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-017-2026-10-21-01 | [A-017](resolutions/A-017.md) | Candidate **37 — Focal whole; Integration × Focal × Standing**. Centre: Weather, labor, distance, scarcity and desire are gathered into the single expression of a market-price figure. Nearest rival **40 — Role array**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Medium-high in gathering; moderate in persistence confidence; selected under the frozen record; independent reproducibility not established. Full tests and D1/D2 in the linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `eec814a74ace0ebe12ae7e568844728a7c233f28`. No earlier record or frozen source modified.
+
+**Latest checkpoint:** 17/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-018. Sequential batch through A-020 authorised by the owner; this sentence was frozen, classified and persisted before the next investigation.

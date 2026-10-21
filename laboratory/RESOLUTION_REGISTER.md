@@ -366,3 +366,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `612d09f1d5372f557eb5e45c33188ebe155cf36c`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 29/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-030. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.
+
+
+## First-pass continuation — A-030 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-030-2026-10-21-01 | [A-030](resolutions/A-030.md) | Candidate **21 — Responsive return; Relating × Focal × Efficacy**. Centre: A language's disappearance may make particular ways of noticing harder to inherit. Nearest rival **20 — Pivoted balance**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Medium-high in consequential modality; moderate in topology confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `b552da0756fffc035534773b9eb08e463aa32472`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 30/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-031. The owner authorised another handful, announced as A-028–A-032. This sentence was frozen, classified, saved and published before the next investigation.

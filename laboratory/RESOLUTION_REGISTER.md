@@ -179,3 +179,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record saved and verified by exact read-back before indexing; blob `71f9f9f27bfe6f9bdd246e3ca4718e7e97e12bc0`. Earlier records and checkpoints are preserved unchanged.
 
 **Latest checkpoint:** 12/200 first-pass sentences, plus A-007 revision 02. Next A-013. These records were resolved sequentially in conversation and are now being persisted at the owner's request; this write pass does not represent new investigations.
+
+
+## First-pass continuation — A-013 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-013-2026-10-21-01 | [A-013](resolutions/A-013.md) | Candidate **21 — Responsive return; Relating × Focal × Efficacy**. Nearest rival **19 — Direct bearing**. Owner accepted Cell 21 after testing proposed Cell 19. | Fresher / OpenAI Codex; preserves the completed chat investigation. Achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Full frozen Centre, six questions, holding tests, counterfactuals and D1–D3 in linked record. |
+
+**Persistence:** full record saved and verified by exact read-back before indexing; blob `ab9d8da822de6af5a260395331687f846ef2e8fb`. Earlier records and checkpoints are preserved unchanged.
+
+**Latest checkpoint:** 13/200 first-pass sentences, plus A-007 revision 02. Next A-014. These records were resolved sequentially in conversation and are now being persisted at the owner's request; this write pass does not represent new investigations.

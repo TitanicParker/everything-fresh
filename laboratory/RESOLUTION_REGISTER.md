@@ -419,3 +419,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 | FRESHER-A-034-2026-10-21-01 | [A-034](resolutions/A-034.md) | **Cell 12 — Branching output; Opening × Focal × Efficacy.** Corrected Centre: **One open door can give rise to four distinct possibilities of meaning: welcome, escape, opportunity, and forgotten obligation.** | The initial Centre wrongly imported a question of which meaning is selected. Owner challenge exposed the positive **one source → four possible significances** achievement. The correction and full-strength rivals (15, 13, 05, 04) are preserved in the record. The axes emerge together from the one-to-many capacity: Opening, Focal, Efficacy. |
 
 **Latest checkpoint:** **34/200 first-pass investigations**, plus A-007 revision 02. **Next unworked sentence: A-035.** A-034 is recorded as Cell 12, with its corrected Centre and research path preserved.
+
+
+## First-pass continuation — A-035 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-035-2026-10-21-01 | [A-035](resolutions/A-035.md) | **Candidate 06 — Field separation; Differentiation × Distributed × Efficacy.** Frozen Centre: The same rain has a nourishing consequence in one field and a destructive, washing-away consequence in another. | GPT-6 / ChatGPT; non-blind; source Edition 1.1; protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Strongest one-axis rival **05 — Context-bound mark**; cross-family rival **24 — Relational cycle**. Moderate confidence; uniqueness not established. Full diligence in linked record. |
+
+**Persistence:** full record created in commit `f75b5b40fdc92672c1c08f3915973044eb77dfcd` and read back; blob `6079adb5a59207493c021a19ae704ab8d547a034`.
+
+**Latest checkpoint:** **35/200 first-pass investigations**, plus A-007 revision 02. **Next unworked sentence: A-036.** Research publication, shared-guide update, teaching parity and public deployment require separate verification.

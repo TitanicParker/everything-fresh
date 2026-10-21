@@ -311,3 +311,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `f412cc3a665a40dc592811f98cd3d2f35c00932b`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 24/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-025. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-025 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-025-2026-10-21-01 | [A-025](resolutions/A-025.md) | Candidate **12 — Branching output; Opening × Focal × Efficacy**. Centre: Every map's selective omission serves to make other content easier to find. Nearest rival **21 — Responsive return**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Medium-high in enabling function; moderate in transformation boundary confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence questions in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `6c16943fc57656b92b874a9f05231ff4377ca36f`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 25/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-026. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.

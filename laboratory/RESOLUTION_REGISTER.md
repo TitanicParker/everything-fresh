@@ -267,3 +267,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `6a16312828164256a1ea20a643706d836ca023bf`. No earlier record or frozen source modified.
 
 **Latest checkpoint:** 20/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-021. Sequential batch through A-020 authorised by the owner; this sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-021 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-021-2026-10-21-01 | [A-021](resolutions/A-021.md) | Candidate **37 — Focal whole; Integration × Focal × Standing**. Centre: At midnight, emergencies, recoveries, farewells and beginnings are gathered within one hospital under a common roof. Nearest rival **40 — Role array**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Moderate confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence questions in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `4950f7cacf138e4d6f57178b9fee14865b4b2a48`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 21/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-022. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.

@@ -333,3 +333,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record read back with exact content equality before indexing; blob `4dccd913976fd3e7476f89e119c97f0cf1fe8221`. Earlier records and frozen source remain unchanged.
 
 **Latest checkpoint:** 26/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-027. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.
+
+
+## First-pass continuation — A-027 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-027-2026-10-21-01 | [A-027](resolutions/A-027.md) | Candidate **20 — Pivoted balance; Relating × Focal × Bearing**. Centre: In some places, a distant footstep's enormous perceived scale is constituted through winter silence. Nearest rival **21 — Responsive return**. | Fresher / OpenAI Codex; achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Moderate confidence; selected under the frozen record; independent reproducibility not established. Full tests and diligence questions in linked record. |
+
+**Persistence:** full record read back with exact content equality before indexing; blob `8d7b55cced1d6cfa6dceaba34a2931133f0acf87`. Earlier records and frozen source remain unchanged.
+
+**Latest checkpoint:** 27/200 first-pass sentences, plus A-007 revision 02. **Next unworked sentence:** A-028. The owner authorised continued sequential work, announced as a batch through A-027. This sentence was frozen, classified and persisted before the next investigation.

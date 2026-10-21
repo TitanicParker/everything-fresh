@@ -157,3 +157,14 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** [record commit](https://github.com/TitanicParker/everything-fresh/commit/603ca2571af5a9b75a7bb8329f05a52c3b38c0b1); exact-content read-back verified before indexing; record blob `b583ab7a8d02780803083e4d31f2f5dee7eb071d`.
 
 **Latest checkpoint:** 10/200 first-pass sentences, plus A-007 revision 02. Next A-011. Only A-010 resolved in this invocation. Earlier checkpoints remain historical.
+
+
+## First-pass continuation — A-011 — 21 October 2026
+
+| Record ID | Full record | Outcome | Provenance / diligence |
+|---|---|---|---|
+| FRESHER-A-011-2026-10-21-01 | [A-011](resolutions/A-011.md) | Candidate **35 — Condition reversal; Repair × Release × Bearing**. Nearest rival **34 — Limit reset**. | Fresher / OpenAI Codex; preserves the completed chat investigation. Achieved-identity protocol blob `69eb1e465b48bbc2e0fef0d315456a6ebabd2107`. Full frozen Centre, six questions, holding tests, counterfactuals and D1–D2 in linked record. |
+
+**Persistence:** full record saved and verified by exact read-back before indexing; blob `932ef123cb69cbb222b5c96d4a19d891648da8e3`. Earlier records and checkpoints are preserved unchanged.
+
+**Latest checkpoint:** 11/200 first-pass sentences, plus A-007 revision 02. Next A-012. These records were resolved sequentially in conversation and are now being persisted at the owner's request; this write pass does not represent new investigations.

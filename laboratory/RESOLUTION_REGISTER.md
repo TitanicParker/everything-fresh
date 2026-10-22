@@ -451,4 +451,19 @@ The swipe-card interface and [public receipts](../sentence-receipts.html) are up
 |---|---|---|---|
 | A-035 — “The same rain nourishes one field and washes another field away.” | **06 — Field separation — “These among these.”** (Differentiation × Distributed × Efficacy) | [A-035 dialogue revision](resolutions/A-035-revision-2026-10-22.md) | Dialogue-selected; prior first-pass candidate and 05 rival preserved. Polarity of the verbs is not structural evidence; distinct operative effects across recipients under one common influence are. |
 
-**Next corpus sentence: A-036.**
+**Next corpus sentence: A-041 (under examination; no selected cell).**
+
+
+## Dialogue working resolutions — A-036 to A-040 — 2026-10-22
+
+These are dialogue-selected working resolutions, not uniqueness proofs. A-041 remains explicitly unresolved; competing nonadjacent cells and contextual substitutions will be examined before selection.
+
+| Sentence | Working cell (canonical) | Three axes | Full receipt | Status |
+|---|---|---|---|---|
+| A-036 — “At dawn, fishing boats return with food, stories, debts, and weather reports.” | **22 — Sequential link — “Then.”** | Relating × Distributed × Standing | [A-036 dialogue receipt](resolutions/A-036-dialogue-2026-10-22.md) | Dialogue working resolution; rivals preserved |
+| A-037 — “A city's water pipes make millions of private mornings possible without ceremony.” | **12 — Branching output — “More ways open.”** | Opening × Focal × Efficacy | [A-037 dialogue receipt](resolutions/A-037-dialogue-2026-10-22.md) | Dialogue working resolution; rivals preserved |
+| A-038 — “No two people standing together bring exactly the same past into view.” | **04 — Scope standing — “Within this.”** | Differentiation × Distributed × Standing | [A-038 dialogue receipt](resolutions/A-038-dialogue-2026-10-22.md) | Dialogue working resolution; rivals preserved |
+| A-039 — “The village well once organized meetings as surely as it supplied water.” | **22 — Sequential link — “Then.”** | Relating × Distributed × Standing | [A-039 dialogue receipt](resolutions/A-039-dialogue-2026-10-22.md) | Dialogue working resolution; rivals preserved |
+| A-040 — “An old tree shades grandchildren who never met the person who planted it.” | **19 — Direct bearing — “This bears on that.”** | Relating × Focal × Standing | [A-040 dialogue receipt](resolutions/A-040-dialogue-2026-10-22.md) | Dialogue working resolution; rivals preserved |
+
+**A-041 under examination:** “In a courtroom, silence can carry more weight than a long speech.” Traffic cop: **“can carry more weight than.”** Removing “in a courtroom” preserves the unequal comparison; retaining it situates that possibility. Test whether the setting governs the operative centre or qualifies it. 05 — Context-bound mark — “This here.” (Differentiation × Distributed × Bearing), 08 — Graded contrast — “More and less.” (Differentiation × Release × Bearing), and 20 — Pivoted balance — “Held in counterbalance.” (Relating × Focal × Bearing) are candidates, not a chosen answer. Numeric proximity is not a criterion for close structural rivals.

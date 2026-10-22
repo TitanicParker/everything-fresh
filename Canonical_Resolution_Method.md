@@ -5845,3 +5845,15 @@ All 32 first-pass record blobs and revision 02 are identified beside the embedde
 **Teaching principle:** The Operative Centre is where the three axes are born together. Express each rival as a complete sentence close to the original, then ask whether it preserves the exact achieved identity. Do not infer a selection problem merely from multiple possibilities, or infer Distributed merely by counting outputs. Do not let the labels determine the Centre.
 
 **Complete source investigation:** [A-034](laboratory/resolutions/A-034.md). **Corpus progress:** 34/200; next A-035.
+
+
+## 22 October 2026 — conversation-led resolution addendum (A-002, A-005, A-007, A-014)
+
+This addendum records decisions reached after the original archived investigations. The archived analyses remain historical, not silently rewritten. Current classifications and diligence are indexed in [the live register](laboratory/RESOLUTION_REGISTER.md), and readable commentary appears in [sentence receipts](sentence-receipts.html).
+
+- **A-002:** **07 — Opposed standing — “Opposed.”** (Differentiation × Release × Standing). Traffic cop “yet”; the river's indifference to borders is opposed to nations' contest, displacing the expectation that borderlessness determines political treatment. [Revised diligence](laboratory/resolutions/A-002-revision-2026-10-22.md).
+- **A-005:** **42 — Role activation — “The whole can act.”** (Integration × Distributed × Efficacy). Traffic cop “by making”; the city is the whole, strangers' mutual usefulness is the means of its growth, and “without introductions” is non-governing qualification. [Revised diligence](laboratory/resolutions/A-005-revision-2026-10-22.md).
+- **A-007:** **40 — Role array — “The parts make one.”** (Integration × Distributed × Standing). The existing revision 02 is reaffirmed: the seed bears a unified instructional endowment, not a proven executed capacity or a set of alternative branches. [Existing revision 02](laboratory/resolutions/A-007-revision-02.md).
+- **A-014:** **06 — Field separation — “These among these.”** (Differentiation × Distributed × Efficacy). Traffic cop “even” invokes an implicit evidential field and asserts the efficacy of the unexpected damaged member. “Even broken clocks are right twice a day” served as a structural parallel. This does **not** establish a universal rule that every sentence beginning with “even” is Distributed. [Revised diligence](laboratory/resolutions/A-014-revision-2026-10-22.md).
+
+**Methodological finding:** A traffic cop can reactivate contextual expectations outside the sentence; that fact alone does not prove Distributed topology. The three axes must be assessed as one conjunction, with serious rivals retained and prior work preserved. These are dialogue-selected interpretations, not independently blinded confirmations.

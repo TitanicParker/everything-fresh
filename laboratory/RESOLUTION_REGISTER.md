@@ -443,3 +443,12 @@ Earlier first-pass and revision entries above are preserved as historical record
 | A-014 | **06 — Field separation — “These among these.”** (Differentiation × Distributed × Efficacy) | [A-014 revision](resolutions/A-014-revision-2026-10-22.md) | Selected in dialogue; supersedes candidate 20; context-reactivating “even” requires further independent testing |
 
 The swipe-card interface and [public receipts](../sentence-receipts.html) are updated alongside these records. Earlier full diligence and public exhibits remain accessible as historical material.
+
+
+## Dialogue resolution — A-035 — 22 October 2026
+
+| Sentence | Selected cell | Receipt | Status |
+|---|---|---|---|
+| A-035 — “The same rain nourishes one field and washes another field away.” | **06 — Field separation — “These among these.”** (Differentiation × Distributed × Efficacy) | [A-035 dialogue revision](resolutions/A-035-revision-2026-10-22.md) | Dialogue-selected; prior first-pass candidate and 05 rival preserved. Polarity of the verbs is not structural evidence; distinct operative effects across recipients under one common influence are. |
+
+**Next corpus sentence: A-036.**

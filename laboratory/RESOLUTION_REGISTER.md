@@ -430,3 +430,16 @@ Earlier progress statements are historical checkpoints. This is the latest appen
 **Persistence:** full record created in commit `f75b5b40fdc92672c1c08f3915973044eb77dfcd` and read back; blob `6079adb5a59207493c021a19ae704ab8d547a034`.
 
 **Latest checkpoint:** **35/200 first-pass investigations**, plus A-007 revision 02. **Next unworked sentence: A-036.** Research publication, shared-guide update, teaching parity and public deployment require separate verification.
+
+## Conversation-led revisions — 22 October 2026
+
+Earlier first-pass and revision entries above are preserved as historical records. These entries supersede their prior current classifications; they are not new corpus sentences.
+
+| Sentence | Current classification | Full revised diligence | Status |
+|---|---|---|---|
+| A-002 | **07 — Opposed standing — “Opposed.”** (Differentiation × Release × Standing) | [A-002 revision](resolutions/A-002-revision-2026-10-22.md) | Selected in dialogue; supersedes contested 05/23 |
+| A-005 | **42 — Role activation — “The whole can act.”** (Integration × Distributed × Efficacy) | [A-005 revision](resolutions/A-005-revision-2026-10-22.md) | Selected in dialogue; supersedes contested 24/42 |
+| A-007 | **40 — Role array — “The parts make one.”** (Integration × Distributed × Standing) | [A-007 revision 02](resolutions/A-007-revision-02.md) | Existing revision 02 reaffirmed in dialogue |
+| A-014 | **06 — Field separation — “These among these.”** (Differentiation × Distributed × Efficacy) | [A-014 revision](resolutions/A-014-revision-2026-10-22.md) | Selected in dialogue; supersedes candidate 20; context-reactivating “even” requires further independent testing |
+
+The swipe-card interface and [public receipts](../sentence-receipts.html) are updated alongside these records. Earlier full diligence and public exhibits remain accessible as historical material.

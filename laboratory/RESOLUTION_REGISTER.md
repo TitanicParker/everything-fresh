@@ -517,3 +517,10 @@ These are dialogue-selected working resolutions, not uniqueness proofs. A-041 re
 ## A-048 — owner-selected Cell 04, Scope standing (23 October 2026)
 
 **Sentence:** A song crossing generations may retain its shape while gathering new associations. **Gate One:** the possible invariance of a song's form through generations while its associations change. **Gate Two:** **Cell 04 — Differentiation × Distributed × Standing.** Differentiation: “a song crossing generations” scopes the kind of song. Distributed: the invariant song spans distinct generations/time positions, not necessarily multiple subjects. Standing: “may retain its shape” describes possible persistence, not guaranteed completion. “While gathering new associations” gives the change against which form may stand. Rival **Settlement × Focal × Efficacy** considered but not selected; the owner stressed that “crossing generations is evidently distributive of the invariant, it spans time.” **Owner-selected, not independently uniquely proven.** [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-048-resolution-2026-10-23.md).
+
+
+## A-049 — Cell 19 (owner-selected)
+
+The first snowfall makes familiar streets newly visible by hiding their details.
+
+Operative Centre: the sentence establishes the first snowfall's bearing on the appearance of familiar streets, renewed visibility through concealment of detail. Cell 19 — Direct bearing: **Relating × Focal × Standing**. Relating: connection between snowfall and changed appearance. Focal: first snowfall. Standing: relation asserted as obtaining. Earlier assistant misidentified Cell 19 as Differentiation × Focal × Bearing; this is corrected. Owner-selected, not independently uniquely proven.

@@ -497,3 +497,8 @@ These are dialogue-selected working resolutions, not uniqueness proofs. A-041 re
 ## A-042 — owner-accepted resolution formally recorded, 23 October 2026
 
 **Sentence:** The coral reef shelters creatures whose survival depends upon countless close relationships. **Selected:** Cell 19 — Direct bearing — “It bears on this.” (Relating × Focal × Standing). **Centre:** “The coral reef shelters creatures.” The main assertion makes plain what the reef does; the “whose survival…” relative clause nests the countless relationships within that governing sheltering structure. Multiplicity of nested relationships does not make the topology Distributed. **Status:** owner-accepted, research receipt filed; not independent uniqueness confirmation. [Full resolution](resolutions/A-042-resolution-2026-10-23.md). **Next pending formal receipts: A-044 and A-045.**
+
+
+## A-044 — owner-selected resolution recorded, 23 October 2026
+
+**Sentence:** A lost key changes the meaning of an otherwise ordinary locked door. **Cell 19 — Direct bearing** (Relating × Focal × Standing). **Centre:** “A lost key changes the meaning.” The lost key bears on the interpretation of the door; “otherwise ordinary” is supporting contrast. **Status:** owner-selected, formally recorded, not independently uniqueness-proven. [Full resolution](resolutions/A-044-resolution-2026-10-23.md). **Next pending formal receipt: A-045.**

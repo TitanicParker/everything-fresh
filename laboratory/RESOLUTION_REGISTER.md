@@ -487,3 +487,8 @@ These are dialogue-selected working resolutions, not uniqueness proofs. A-041 re
 ## A-041 — selected resolution, 23 October 2026
 
 **Current dialogue-selected cell:** **04 — Scope standing — “Within this.”** (Differentiation × Distributed × Standing). **Operative Centre:** the opening “In a courtroom” governs the scope within which silence can carry more weight than a long speech. The comparative content holds within that domain; it does not govern the sentence. The prior A-041 open examination and its provisional 05 remain preserved as history. [Full selected resolution](resolutions/A-041-resolution-2026-10-23.md). **Next unresolved in sequence: A-042** (dialogue preference for 19, no formal receipt).
+
+
+## A-046 — dialogue-selected resolution, 23 October 2026
+
+**Sentence:** A farmer reads the soil through texture, smell, memory, and experience. **Selected:** Cell 46 — Settled alternative — “Chosen.” (Settlement × Focal × Standing). **Operative Centre:** the farmer's established method of reading soil; texture, smell, memory, and experience are already-chosen means serving one focal reading. The method stands as practice rather than being chosen in the sentence. **Status:** owner-led dialogue selection, not independent uniqueness confirmation. [Full resolution](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-046-dialogue-2026-10-23.md). The canonical Cell 46 definitive-answer description remains a point for methodological review. **Next dialogue sentence: A-047.**

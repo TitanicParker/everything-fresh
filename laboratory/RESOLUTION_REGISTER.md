@@ -477,3 +477,8 @@ These are dialogue-selected working resolutions, not uniqueness proofs. A-041 re
 ## A-043 — dialogue working resolution, 22 October 2026
 
 **Sentence:** “Every public library offers strangers access to work completed by absent minds.” **Selected working cell:** **51 — Case settlement — “Settled across the cases.”** (Settlement × Distributed × Efficacy). **Traffic cop:** “Every … offers”. **Operative Centre:** exhaustive scope across all public libraries. **Strong rival:** **15 — Field distribution — “Available throughout.”** (Opening × Distributed × Efficacy), because “offers access” may govern the operation while “every” distributes it. No narrated dispute or case-by-case settlement is asserted; uniqueness not proved. [Full receipt](resolutions/A-043-dialogue-2026-10-22.md). A-041 remains under examination. A-042 has a dialogue preference for 19 but no formal receipt yet.
+
+
+## A-036 — owner-led revision, 23 October 2026
+
+**Current dialogue-selected cell:** **49 — Recurrence settlement — “It returns.”** (Settlement × Distributed × Standing). **Operative Centre:** the fishing boats' return completes their outward activity and brings food, stories, debts, and weather reports back together at dawn. **Supersedes:** 22 — Sequential link — “Then.” The earlier record treated temporal location as the governing sequential achievement; it is retained unchanged as historical diligence. **Status:** owner-led dialogue selection, not an independent uniqueness proof. [Full revised record](resolutions/A-036-revision-2026-10-23.md). **Next sequential sentence:** A-037.

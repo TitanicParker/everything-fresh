@@ -524,3 +524,8 @@ These are dialogue-selected working resolutions, not uniqueness proofs. A-041 re
 The first snowfall makes familiar streets newly visible by hiding their details.
 
 Operative Centre: the sentence establishes the first snowfall's bearing on the appearance of familiar streets, renewed visibility through concealment of detail. Cell 19 — Direct bearing: **Relating × Focal × Standing**. Relating: connection between snowfall and changed appearance. Focal: first snowfall. Standing: relation asserted as obtaining. Earlier assistant misidentified Cell 19 as Differentiation × Focal × Bearing; this is corrected. Owner-selected, not independently uniquely proven.
+
+
+## A-050 — owner-selected Cell 22, Sequential link (23 October 2026)
+
+**Sentence:** A treaty is paper until people organize their conduct around its promises. **Operative Centre:** the sentence establishes the ordered dependency by which a treaty remains paper until its promises become a basis for conduct. **Cell 22 — Relating × Distributed × Standing.** Relating: the treaty's practical significance depends on conduct. Distributed: *until* orders two constitutive conditions, paper alone and conduct organized around promises. Standing: a general condition is established, not an accomplished event. **Rivals:** Cell 21 (Relating × Focal × Efficacy) overemphasizes achieved effect; Cell 19 (Relating × Focal × Standing) underemphasizes sequential distribution. Owner-selected, not independently uniquely proven. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-050-resolution-2026-10-23.md).

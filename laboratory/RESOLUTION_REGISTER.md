@@ -492,3 +492,8 @@ These are dialogue-selected working resolutions, not uniqueness proofs. A-041 re
 ## A-046 — dialogue-selected resolution, 23 October 2026
 
 **Sentence:** A farmer reads the soil through texture, smell, memory, and experience. **Selected:** Cell 46 — Settled alternative — “Chosen.” (Settlement × Focal × Standing). **Operative Centre:** the farmer's established method of reading soil; texture, smell, memory, and experience are already-chosen means serving one focal reading. The method stands as practice rather than being chosen in the sentence. **Status:** owner-led dialogue selection, not independent uniqueness confirmation. [Full resolution](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-046-dialogue-2026-10-23.md). The canonical Cell 46 definitive-answer description remains a point for methodological review. **Next dialogue sentence: A-047.**
+
+
+## A-042 — owner-accepted resolution formally recorded, 23 October 2026
+
+**Sentence:** The coral reef shelters creatures whose survival depends upon countless close relationships. **Selected:** Cell 19 — Direct bearing — “It bears on this.” (Relating × Focal × Standing). **Centre:** “The coral reef shelters creatures.” The main assertion makes plain what the reef does; the “whose survival…” relative clause nests the countless relationships within that governing sheltering structure. Multiplicity of nested relationships does not make the topology Distributed. **Status:** owner-accepted, research receipt filed; not independent uniqueness confirmation. [Full resolution](resolutions/A-042-resolution-2026-10-23.md). **Next pending formal receipts: A-044 and A-045.**

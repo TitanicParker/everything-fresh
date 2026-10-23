@@ -502,3 +502,8 @@ These are dialogue-selected working resolutions, not uniqueness proofs. A-041 re
 ## A-044 — owner-selected resolution recorded, 23 October 2026
 
 **Sentence:** A lost key changes the meaning of an otherwise ordinary locked door. **Cell 19 — Direct bearing** (Relating × Focal × Standing). **Centre:** “A lost key changes the meaning.” The lost key bears on the interpretation of the door; “otherwise ordinary” is supporting contrast. **Status:** owner-selected, formally recorded, not independently uniqueness-proven. [Full resolution](resolutions/A-044-resolution-2026-10-23.md). **Next pending formal receipt: A-045.**
+
+
+## A-045 — “where” directs a contrast (23 October 2026)
+
+**Canonical sentence:** The stars remain visible in deserts where city lights conceal their patterns. **Owner-accepted:** **Cell 04 — Scope standing (“Within this”)** (**Differentiation × Distributed × Standing**). **Operative Centre:** the turn at “where” into a contrast between the stars' visibility and city lights concealing their patterns. The two sides jointly achieve the contrast, even though “where” introduces a grammatically subordinate clause. Substituting “whereas” makes the contrast explicit without changing the owner's operative reading; this is a diagnostic only, and the original “where” remains in the corpus. The strictly locative reading and Cell 01 (Differentiation × Focal × Standing) remain recorded as a serious grammatical rival, not silently erased. **Status:** owner-accepted dialogue resolution, formally recorded, not independent uniqueness proof. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-045-resolution-2026-10-23.md).

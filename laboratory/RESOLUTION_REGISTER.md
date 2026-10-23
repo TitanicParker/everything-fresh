@@ -529,3 +529,8 @@ Operative Centre: the sentence establishes the first snowfall's bearing on the a
 ## A-050 — owner-selected Cell 22, Sequential link (23 October 2026)
 
 **Sentence:** A treaty is paper until people organize their conduct around its promises. **Operative Centre:** the sentence establishes the ordered dependency by which a treaty remains paper until its promises become a basis for conduct. **Cell 22 — Relating × Distributed × Standing.** Relating: the treaty's practical significance depends on conduct. Distributed: *until* orders two constitutive conditions, paper alone and conduct organized around promises. Standing: a general condition is established, not an accomplished event. **Rivals:** Cell 21 (Relating × Focal × Efficacy) overemphasizes achieved effect; Cell 19 (Relating × Focal × Standing) underemphasizes sequential distribution. Owner-selected, not independently uniquely proven. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-050-resolution-2026-10-23.md).
+
+
+## A-051 — owner-selected Cell 46 (23 October 2026)
+
+The human body repairs small injuries without asking permission from conscious thought. Operative Centre: the sentence establishes the body's ordinary repair as independent of conscious authorization. **Cell 46 — Settled alternative: Settlement × Focal × Standing.** Settlement: this is stated as the way it happens, not that no alternatives are conceivable. Focal: the human body. Standing: an enduring condition of repair rather than a particular completed outcome. Rival Cell 48 (Settlement × Focal × Efficacy): the verb repairs signals efficacy, but independence from conscious permission governs the sentence. Owner-selected, not independently uniquely proven.

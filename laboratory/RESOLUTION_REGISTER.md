@@ -482,3 +482,8 @@ These are dialogue-selected working resolutions, not uniqueness proofs. A-041 re
 ## A-036 — owner-led revision, 23 October 2026
 
 **Current dialogue-selected cell:** **49 — Recurrence settlement — “It returns.”** (Settlement × Distributed × Standing). **Operative Centre:** the fishing boats' return completes their outward activity and brings food, stories, debts, and weather reports back together at dawn. **Supersedes:** 22 — Sequential link — “Then.” The earlier record treated temporal location as the governing sequential achievement; it is retained unchanged as historical diligence. **Status:** owner-led dialogue selection, not an independent uniqueness proof. [Full revised record](resolutions/A-036-revision-2026-10-23.md). **Next sequential sentence:** A-037.
+
+
+## A-041 — selected resolution, 23 October 2026
+
+**Current dialogue-selected cell:** **04 — Scope standing — “Within this.”** (Differentiation × Distributed × Standing). **Operative Centre:** the opening “In a courtroom” governs the scope within which silence can carry more weight than a long speech. The comparative content holds within that domain; it does not govern the sentence. The prior A-041 open examination and its provisional 05 remain preserved as history. [Full selected resolution](resolutions/A-041-resolution-2026-10-23.md). **Next unresolved in sequence: A-042** (dialogue preference for 19, no formal receipt).
